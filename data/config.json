@@ -1,0 +1,39 @@
+{
+  "candidate": {
+    "name": "Alex Chen",
+    "email": "alex@alexchendesign.com",
+    "phone": "512.555.0182",
+    "website": "alexchendesign.com",
+    "linkedin": "linkedin.com/in/alexchenux"
+  },
+  "preferences": {
+    "titles": [
+      "Director of Product Design",
+      "Head of Design",
+      "VP Design",
+      "Principal Product Designer",
+      "Head of Design Systems"
+    ],
+    "salary": {
+      "min_fte": 175000,
+      "min_contract_hourly": 85
+    },
+    "open_to_contract": true,
+    "locations": {
+      "remote": true,
+      "hybrid": true,
+      "hub_city": "Austin",
+      "hub_state": "TX",
+      "hub_zip": "78701",
+      "hub_radius_miles": 30
+    }
+  },
+  "scraping": {
+    "schedule": "0 8 * * 1-5"
+  },
+  "ai": {
+    "provider": "anthropic",
+    "model": "claude-sonnet-4-6",
+    "base_url": null
+  }
+}
