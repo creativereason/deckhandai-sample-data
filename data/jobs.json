@@ -95,6 +95,15 @@
   ],
   "local": [
     {
+      "company": "RetailMeNot",
+      "role": "UX Manager",
+      "fit": "good",
+      "salary": "$110,000–$135,000",
+      "notes": "Scraped 2026-06-22",
+      "url": "https://retailmenot.com/careers/ux-manager",
+      "isNew": true
+    },
+    {
       "company": "Indeed",
       "role": "Director of Product Design",
       "fit": "strong",
@@ -171,15 +180,5 @@
       "url": "https://pivotal.io/careers/ux-lead"
     }
   ],
-  "pending": [
-    {
-      "company": "RetailMeNot",
-      "role": "UX Manager",
-      "url": "https://retailmenot.com/careers/ux-manager",
-      "salary": "$110,000–$135,000",
-      "notes": "",
-      "scrapeGroup": "local",
-      "scrapeDate": "2026-06-22"
-    }
-  ]
+  "pending": []
 }
