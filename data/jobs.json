@@ -30,6 +30,15 @@
   ],
   "prospect": [
     {
+      "company": "Atlassian",
+      "role": "Principal Designer, Jira",
+      "fit": "good",
+      "salary": "$190,000–$230,000",
+      "notes": "Scraped 2026-06-22",
+      "url": "https://atlassian.com/company/careers/principal-designer-jira",
+      "isNew": true
+    },
+    {
       "company": "GitHub",
       "role": "Senior Product Designer, Copilot",
       "fit": "good",
@@ -163,15 +172,6 @@
     }
   ],
   "pending": [
-    {
-      "company": "Atlassian",
-      "role": "Principal Designer, Jira",
-      "url": "https://atlassian.com/company/careers/principal-designer-jira",
-      "salary": "$190,000–$230,000",
-      "notes": "",
-      "scrapeGroup": "remote",
-      "scrapeDate": "2026-06-22"
-    },
     {
       "company": "RetailMeNot",
       "role": "UX Manager",
