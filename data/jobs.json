@@ -30,6 +30,15 @@
   ],
   "prospect": [
     {
+      "company": "GitHub",
+      "role": "Senior Product Designer, Copilot",
+      "fit": "good",
+      "salary": "$185,000–$215,000",
+      "notes": "Scraped 2026-06-22",
+      "url": "https://github.careers/senior-product-designer-copilot",
+      "isNew": true
+    },
+    {
       "company": "Figma",
       "role": "Director of Product Design",
       "fit": "strong",
@@ -154,15 +163,6 @@
     }
   ],
   "pending": [
-    {
-      "company": "GitHub",
-      "role": "Senior Product Designer, Copilot",
-      "url": "https://github.careers/senior-product-designer-copilot",
-      "salary": "$185,000–$215,000",
-      "notes": "",
-      "scrapeGroup": "remote",
-      "scrapeDate": "2026-06-22"
-    },
     {
       "company": "Atlassian",
       "role": "Principal Designer, Jira",
