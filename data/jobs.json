@@ -103,6 +103,14 @@
   ],
   "prospect": [
     {
+      "company": "Glassbox",
+      "role": "Director of Product Ops",
+      "fit": "caution",
+      "url": "https://www.glassbox.com/careers/4920234101/director-of-product-ops/usa-remote/",
+      "aiSummary": "Glassbox seeks a Director of Product Operations to build product infrastructure: roadmap systems, planning cadences, governance, and prioritization frameworks for a scaling product org.",
+      "notes": "Build role with caution fit—strong DesignOps and cross-functional leadership background, but no direct product operations or PM experience. Career pivot into new discipline; requires learning on the job in product-wide process design."
+    },
+    {
       "company": "Prodege",
       "role": "Director, Product Designer, Consumer Experience",
       "fit": "strong",
