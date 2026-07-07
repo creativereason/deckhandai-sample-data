@@ -6,12 +6,12 @@
       "status": "interview",
       "date": "2026-06-03",
       "salary": "$194,900–$292,300",
-      "notes": "Panel round scheduled for 7/12. Role leads a team of brand and experiential designers across event systems, keynote concepting, digital/environmental graphics, and global brand activations. 10+ yrs design experience required, 3+ yrs managing designers. Strong overlap with systems-thinking and creative leadership background. Requires Figma, Adobe CC, Keynote, AI tools proficiency.",
+      "notes": "Panel round scheduled for 6/30. Role leads a team of brand and experiential designers across event systems, keynote concepting, digital/environmental graphics, and global brand activations. 10+ yrs design experience required, 3+ yrs managing designers. Strong overlap with systems-thinking and creative leadership background. Requires Figma, Adobe CC, Keynote, AI tools proficiency.",
       "aiSummary": "Stripe builds payments infrastructure for the internet. This role leads the brand and experiential design team across event systems, keynotes, and global brand activations.",
       "url": "https://stripe.com/jobs/listing/creative-director-brand-experiences/8001909",
       "type": "remote",
-      "fit": "good",
-      "scoreRationale": "Strong match on people leadership (3+ yrs managing teams), design systems expertise, and cross-functional collaboration. You've scaled teams, built scalable design frameworks, and led high-stakes B2B product work. Your systems thinking and DesignOps background map well to building experiential design systems. However, this role emphasizes brand experience, environmental graphics, and event design—areas not prominently represented in your product design portfolio. You'll need to demonstrate how your product and systems expertise translates to experiential work, and be ready to discuss how you'd approach event identity systems, digital/physical brand integration, and creative direction for large-scale global activations. The technical tooling (Figma, Adobe CC, Keynote, AI) and executive presence are clear strengths."
+      "fit": "strong",
+      "scoreRationale": "Comp ceiling ($292K) exceeds target, remote-eligible, and the experiential + systems leadership scope aligns closely with track record. Strong portfolio match on global brand and design org building."
     },
     {
       "company": "Linear",
@@ -103,51 +103,6 @@
   ],
   "prospect": [
     {
-      "company": "PointClickCare",
-      "role": "Sr. Director, Design & User Experience",
-      "fit": "good",
-      "aiSummary": "PointClickCare, a healthcare tech platform serving 30K+ providers, seeks a senior design leader to own UX strategy, design system governance, and AI-enabled product experiences across a complex B2B platform.",
-      "url": "https://jobs.lever.co/pointclickcare/4d31800e-9822-477e-9de6-41442afaee18",
-      "notes": "Strong fit: director-level team leadership (11 designers), design system expertise (240-component rebuild), B2B enterprise background, and AI-powered UX experience all align. Gaps: ~3 years as Director vs. 5+ required; no healthcare domain expertise; accessibility/content design leadership not evident. Worth pursuing for genuine healthcare interest."
-    },
-    {
-      "company": "Glassbox",
-      "role": "Director of Product Ops",
-      "fit": "caution",
-      "url": "https://www.glassbox.com/careers/4920234101/director-of-product-ops/usa-remote/",
-      "aiSummary": "Glassbox seeks a Director of Product Operations to build product infrastructure: roadmap systems, planning cadences, governance, and prioritization frameworks for a scaling product org.",
-      "notes": "Build role with caution fit—strong DesignOps and cross-functional leadership background, but no direct product operations or PM experience. Career pivot into new discipline; requires learning on the job in product-wide process design."
-    },
-    {
-      "company": "Prodege",
-      "role": "Director, Product Designer, Consumer Experience",
-      "fit": "strong",
-      "url": "https://prodege.wd108.myworkdayjobs.com/Prodege_Careers/job/Director--Product-Designer--Consumer-Experience_R-100110-1",
-      "aiSummary": "Prodege (Blackstone-backed consumer insights platform) seeks a design leader to own product strategy and mentor a design team across B2C and B2B products, reporting to the CPO.",
-      "scoreRationale": "Strong match on leadership depth (11-person team at Meridian exceeds 5+ years management requirement) and design systems/DesignOps rigor. Main gap: consumer-facing products vs. your B2B/enterprise background, and ~8.5 years total XP vs. 10–12+ ask. Worth flagging PE ownership (Blackstone) for org stability questions.",
-      "notes": "Blackstone-backed PE firm—verify design autonomy and job security expectations before heavy engagement."
-    },
-    {
-      "company": "Whatnot",
-      "role": "Product Designer",
-      "fit": "good",
-      "salary": "$153,000–$235,000",
-      "notes": "Scraped 2026-06-25",
-      "url": "https://to.indeed.com/aap7kwlqfyll",
-      "isNew": true,
-      "scoreRationale": "Fast-moving startup with real design leadership (reports to Design leader). Comp ceiling ($235K) is workable. Live commerce is an adjacent market — not enterprise B2B but high complexity and strong portfolio value."
-    },
-    {
-      "company": "Substack",
-      "role": "Product Designer",
-      "fit": "good",
-      "salary": "$150,000–$215,000",
-      "notes": "Scraped 2026-06-25",
-      "url": "https://to.indeed.com/aaqplyxcnfts",
-      "isNew": true,
-      "scoreRationale": "Unique role — Substack's model (creator-first, subscription-based) is compelling, and the LLM + engineering-characteristics angle matches current workflow. Comp ($150K–$215K) is below director targets but the scope and product ownership are strong."
-    },
-    {
       "company": "Anthropic",
       "role": "Head of Product Design",
       "fit": "strong",
@@ -164,7 +119,7 @@
       "fit": "strong",
       "salary": "$215,000–$265,000",
       "notes": "Remote. Leading design for GitHub Copilot — the fastest-growing developer tool in history. Team of 6 today, growing to 12. Reports to VP Design.",
-      "aiSummary": "Director of Design role leading the design strategy and team for GitHub Copilot, GitHub's flagship AI-powered developer tool, with responsibility for scaling the design organization from 6 to 12 people and reporting to the VP of Design. GitHub is a platform for version control and collaborative software development, and Copilot is their rapidly expanding AI coding assistant product.",
+      "aiSummary": "GitHub is the home of software development. This role leads design for Copilot — a team of six growing to twelve, reporting to the VP of Design.",
       "url": "https://github.careers",
       "type": "remote",
       "scoreRationale": "AI-native product context, strong comp, and developer-tools domain are all direct matches. High-leverage role with clear organizational growth path.",
@@ -219,16 +174,6 @@
     }
   ],
   "local": [
-    {
-      "company": "RetailMeNot",
-      "role": "UX Manager",
-      "fit": "caution",
-      "salary": "$110,000–$135,000",
-      "notes": "Scraped 2026-06-25",
-      "url": "https://www.retailmenot.com/corp/jobs",
-      "isNew": true,
-      "scoreRationale": "Comp ($110–135K) falls well below target and manager title is a step down. Consumer product context is also a weaker fit than enterprise B2B."
-    },
     {
       "company": "Dell Technologies",
       "role": "Principal UX Design Lead, Commercial",
@@ -322,5 +267,41 @@
       "url": "https://salesforce.com/careers"
     }
   ],
-  "pending": []
+  "pending": [
+    {
+      "company": "Substack",
+      "role": "Product Designer",
+      "url": "https://to.indeed.com/aaqplyxcnfts",
+      "salary": "$150,000–$215,000",
+      "notes": "Remote-friendly (SF or NYC preferred). Substack is looking for a product designer with engineering characteristics — specifically LLM fluency for prototyping and potentially owning front-end. Designs across web dashboards, iOS/Android, and email surfaces. Values designers who can ship code, use AI tools daily, and work without heavy process. Requires 3+ yrs software design experience, high Figma proficiency, and comfort with ambiguity. TypeScript/React and SwiftUI are a bonus.",
+      "aiSummary": "Substack is a subscription publishing platform for writers and creators. Product-designer role with engineering characteristics — LLM fluency and prototyping in code.",
+      "scrapeGroup": "remote",
+      "scrapeDate": "2026-06-25",
+      "fit": "good",
+      "scoreRationale": "Unique role — Substack's model (creator-first, subscription-based) is compelling, and the LLM + engineering-characteristics angle matches current workflow. Comp ($150K–$215K) is below director targets but the scope and product ownership are strong."
+    },
+    {
+      "company": "Whatnot",
+      "role": "Product Designer",
+      "url": "https://to.indeed.com/aap7kwlqfyll",
+      "salary": "$153,000–$235,000",
+      "notes": "Remote US (hubs: LA, SF, NYC, Seattle). Whatnot is the largest livestream shopping platform in North America. Role leads end-to-end design across user-facing and internal tools — onboarding, discovery, live events, seller workflows, review systems. Reports to a Design leader. 5+ yrs required, strong Figma/Framer/Protopie skills, systems thinking, zero-to-one experience preferred. Forbes #1 Best Startup Employer in America 2026.",
+      "aiSummary": "Whatnot is North America's largest livestream shopping platform. This role leads end-to-end design across live commerce experiences.",
+      "scrapeGroup": "remote",
+      "scrapeDate": "2026-06-25",
+      "fit": "good",
+      "scoreRationale": "Fast-moving startup with real design leadership (reports to Design leader). Comp ceiling ($235K) is workable. Live commerce is an adjacent market — not enterprise B2B but high complexity and strong portfolio value."
+    },
+    {
+      "company": "RetailMeNot",
+      "role": "UX Manager",
+      "url": "https://www.retailmenot.com/corp/jobs",
+      "salary": "$110,000–$135,000",
+      "notes": "",
+      "scrapeGroup": "local",
+      "scrapeDate": "2026-06-25",
+      "fit": "caution",
+      "scoreRationale": "Comp ($110–135K) falls well below target and manager title is a step down. Consumer product context is also a weaker fit than enterprise B2B."
+    }
+  ]
 }
