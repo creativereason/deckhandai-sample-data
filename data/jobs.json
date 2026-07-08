@@ -272,6 +272,13 @@
       "salary": "",
       "notes": "Rejected from scrape queue 2026-06-25",
       "url": "https://to.indeed.com/aaqplyxcnfts"
+    },
+    {
+      "company": "RetailMeNot",
+      "role": "UX Manager",
+      "salary": "",
+      "notes": "Rejected from scrape queue 2026-06-25",
+      "url": "https://www.retailmenot.com/corp/jobs"
     }
   ],
   "pending": [
@@ -286,17 +293,6 @@
       "scrapeDate": "2026-06-25",
       "fit": "good",
       "scoreRationale": "Fast-moving startup with real design leadership (reports to Design leader). Comp ceiling ($235K) is workable. Live commerce is an adjacent market — not enterprise B2B but high complexity and strong portfolio value."
-    },
-    {
-      "company": "RetailMeNot",
-      "role": "UX Manager",
-      "url": "https://www.retailmenot.com/corp/jobs",
-      "salary": "$110,000–$135,000",
-      "notes": "",
-      "scrapeGroup": "local",
-      "scrapeDate": "2026-06-25",
-      "fit": "caution",
-      "scoreRationale": "Comp ($110–135K) falls well below target and manager title is a step down. Consumer product context is also a weaker fit than enterprise B2B."
     }
   ]
 }
