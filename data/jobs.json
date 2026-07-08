@@ -279,20 +279,14 @@
       "salary": "",
       "notes": "Rejected from scrape queue 2026-06-25",
       "url": "https://www.retailmenot.com/corp/jobs"
-    }
-  ],
-  "pending": [
+    },
     {
       "company": "Whatnot",
       "role": "Product Designer",
-      "url": "https://to.indeed.com/aap7kwlqfyll",
-      "salary": "$153,000–$235,000",
-      "notes": "Remote US (hubs: LA, SF, NYC, Seattle). Whatnot is the largest livestream shopping platform in North America. Role leads end-to-end design across user-facing and internal tools — onboarding, discovery, live events, seller workflows, review systems. Reports to a Design leader. 5+ yrs required, strong Figma/Framer/Protopie skills, systems thinking, zero-to-one experience preferred. Forbes #1 Best Startup Employer in America 2026.",
-      "aiSummary": "Whatnot is North America's largest livestream shopping platform. This role leads end-to-end design across live commerce experiences.",
-      "scrapeGroup": "remote",
-      "scrapeDate": "2026-06-25",
-      "fit": "good",
-      "scoreRationale": "Fast-moving startup with real design leadership (reports to Design leader). Comp ceiling ($235K) is workable. Live commerce is an adjacent market — not enterprise B2B but high complexity and strong portfolio value."
+      "salary": "",
+      "notes": "Rejected from scrape queue 2026-06-25",
+      "url": "https://to.indeed.com/aap7kwlqfyll"
     }
-  ]
+  ],
+  "pending": []
 }
