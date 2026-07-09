@@ -185,6 +185,16 @@
   ],
   "local": [
     {
+      "company": "RetailMeNot",
+      "role": "UX Manager",
+      "fit": "caution",
+      "salary": "$110,000–$135,000",
+      "notes": "Scraped 2026-06-25",
+      "url": "https://www.retailmenot.com/corp/jobs",
+      "isNew": true,
+      "scoreRationale": "Comp ($110–135K) falls well below target and manager title is a step down. Consumer product context is also a weaker fit than enterprise B2B."
+    },
+    {
       "company": "Dell Technologies",
       "role": "Principal UX Design Lead, Commercial",
       "fit": "good",
@@ -289,17 +299,6 @@
       "scrapeDate": "2026-06-25",
       "fit": "good",
       "scoreRationale": "Unique role — Substack's model (creator-first, subscription-based) is compelling, and the LLM + engineering-characteristics angle matches current workflow. Comp ($150K–$215K) is below director targets but the scope and product ownership are strong."
-    },
-    {
-      "company": "RetailMeNot",
-      "role": "UX Manager",
-      "url": "https://www.retailmenot.com/corp/jobs",
-      "salary": "$110,000–$135,000",
-      "notes": "",
-      "scrapeGroup": "local",
-      "scrapeDate": "2026-06-25",
-      "fit": "caution",
-      "scoreRationale": "Comp ($110–135K) falls well below target and manager title is a step down. Consumer product context is also a weaker fit than enterprise B2B."
     }
   ]
 }
