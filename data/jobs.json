@@ -103,16 +103,6 @@
   ],
   "prospect": [
     {
-      "company": "Whatnot",
-      "role": "Product Designer",
-      "fit": "good",
-      "salary": "$153,000–$235,000",
-      "notes": "Scraped 2026-06-25",
-      "url": "https://to.indeed.com/aap7kwlqfyll",
-      "isNew": true,
-      "scoreRationale": "Fast-moving startup with real design leadership (reports to Design leader). Comp ceiling ($235K) is workable. Live commerce is an adjacent market — not enterprise B2B but high complexity and strong portfolio value."
-    },
-    {
       "company": "Anthropic",
       "role": "Head of Product Design",
       "fit": "strong",
@@ -184,16 +174,6 @@
     }
   ],
   "local": [
-    {
-      "company": "RetailMeNot",
-      "role": "UX Manager",
-      "fit": "caution",
-      "salary": "$110,000–$135,000",
-      "notes": "Scraped 2026-06-25",
-      "url": "https://www.retailmenot.com/corp/jobs",
-      "isNew": true,
-      "scoreRationale": "Comp ($110–135K) falls well below target and manager title is a step down. Consumer product context is also a weaker fit than enterprise B2B."
-    },
     {
       "company": "Dell Technologies",
       "role": "Principal UX Design Lead, Commercial",
@@ -299,6 +279,29 @@
       "scrapeDate": "2026-06-25",
       "fit": "good",
       "scoreRationale": "Unique role — Substack's model (creator-first, subscription-based) is compelling, and the LLM + engineering-characteristics angle matches current workflow. Comp ($150K–$215K) is below director targets but the scope and product ownership are strong."
+    },
+    {
+      "company": "Whatnot",
+      "role": "Product Designer",
+      "url": "https://to.indeed.com/aap7kwlqfyll",
+      "salary": "$153,000–$235,000",
+      "notes": "Remote US (hubs: LA, SF, NYC, Seattle). Whatnot is the largest livestream shopping platform in North America. Role leads end-to-end design across user-facing and internal tools — onboarding, discovery, live events, seller workflows, review systems. Reports to a Design leader. 5+ yrs required, strong Figma/Framer/Protopie skills, systems thinking, zero-to-one experience preferred. Forbes #1 Best Startup Employer in America 2026.",
+      "aiSummary": "Whatnot is North America's largest livestream shopping platform. This role leads end-to-end design across live commerce experiences.",
+      "scrapeGroup": "remote",
+      "scrapeDate": "2026-06-25",
+      "fit": "good",
+      "scoreRationale": "Fast-moving startup with real design leadership (reports to Design leader). Comp ceiling ($235K) is workable. Live commerce is an adjacent market — not enterprise B2B but high complexity and strong portfolio value."
+    },
+    {
+      "company": "RetailMeNot",
+      "role": "UX Manager",
+      "url": "https://www.retailmenot.com/corp/jobs",
+      "salary": "$110,000–$135,000",
+      "notes": "",
+      "scrapeGroup": "local",
+      "scrapeDate": "2026-06-25",
+      "fit": "caution",
+      "scoreRationale": "Comp ($110–135K) falls well below target and manager title is a step down. Consumer product context is also a weaker fit than enterprise B2B."
     }
   ]
 }
