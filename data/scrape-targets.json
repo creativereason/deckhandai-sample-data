@@ -24,12 +24,6 @@
       "company": "Stripe",
       "url": "https://stripe.com/jobs",
       "selector": "a[href*='/jobs/listing/']"
-    },
-    {
-      "company": "amazon",
-      "url": "https://amazon.jobs/content/en/locations/united-states/washington/seattle",
-      "selector": "",
-      "linkBase": ""
     }
   ],
   "local": [
